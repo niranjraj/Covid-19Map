@@ -10,5 +10,11 @@ A web map Tracking the Coronavirus outbreak worldwide
 # Covid Details
 ![Covid Details](covidDetails.png)
 
+# Technologies
+  Project is created using:
+  * Python 3.8
+  * Folium
+  * Pandas
+
 
 
