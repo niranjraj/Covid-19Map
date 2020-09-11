@@ -8,7 +8,7 @@ A web map Tracking the Coronavirus outbreak worldwide
 ![Covid Map](covidmapChorpleth.png)
 
 # Covid Details
-![Covid Details](covidmapDetails.png)
+![Covid Details](covidDetails.png)
 
 
 
