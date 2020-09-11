@@ -68,6 +68,9 @@ df3.replace('Viet Nam', 'Vietnam', inplace=True)
 
 
 def color_producer(death, confirmed):
+    if(confirmed == 0):
+        return "green"
+
     cfr = (death/confirmed)*100
     if cfr < 5:
         return "green"
