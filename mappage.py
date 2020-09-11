@@ -128,4 +128,4 @@ map.add_child(fg)
 
 # layer control is set
 map.add_child(folium.LayerControl())
-map.save("MapCV.html")
+map.save("index.html")
