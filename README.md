@@ -16,5 +16,8 @@ A web map Tracking the Coronavirus outbreak worldwide
   * Folium
   * Pandas
 
+# Demo
+###  https://wheezy-code.github.io/Covid-19Map/  
+
 
 
